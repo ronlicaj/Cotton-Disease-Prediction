@@ -1,2 +1,2 @@
 # Cotton-Disease-Prediction
-- Cotton disease prediction using  CNN and Pytorch and Flask   
+- Deep learning for predicting  cotton leaf disease using  CNN, Pytorch and Flask.   
